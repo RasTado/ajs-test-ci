@@ -7,7 +7,6 @@
   },
   "rules": {
     "no-restricted-syntax": ["error", "LabeledStatement", "WithStatement"],
-    "linebreak-style": ["error", "windows"],
     "quotes": ["error", "double"]
   }
 }
